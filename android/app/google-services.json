@@ -1,0 +1,175 @@
+{
+  "project_info": {
+    "project_number": "584798368234",
+    "firebase_url": "https://worldhealthcontrol-92431-default-rtdb.firebaseio.com",
+    "project_id": "worldhealthcontrol-92431",
+    "storage_bucket": "worldhealthcontrol-92431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584798368234:android:4b327f2e1a39b6b3ea8293",
+        "android_client_info": {
+          "package_name": "com.whc.markeplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584798368234-rkq1lmorhcaj7l9n28rj5pjbnlt146s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whc.markeplace",
+            "certificate_hash": "5c4cbe6250899daf67440fd64467852225c9148e"
+          }
+        },
+        {
+          "client_id": "584798368234-59a0bdc2bsra23rbtv2sovqqpvmivdv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOJhAe41jaqO3aE7_ueaG86IBUJoxJdhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584798368234-59a0bdc2bsra23rbtv2sovqqpvmivdv0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584798368234-60i21s19lns6s0ms3nbr816tdpbigm43.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whc.user.byarijeet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584798368234:android:af37ca4ff68df302ea8293",
+        "android_client_info": {
+          "package_name": "com.whc.marketplace.byarijeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584798368234-gho6mb145sighmqmg0thgb4j8lfokjag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whc.marketplace.byarijeet",
+            "certificate_hash": "4520eeb430a200122b76628281b6f397695d355f"
+          }
+        },
+        {
+          "client_id": "584798368234-napvpna7blt279m73df2u5bge0sdumpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whc.marketplace.byarijeet",
+            "certificate_hash": "5c4cbe6250899daf67440fd64467852225c9148e"
+          }
+        },
+        {
+          "client_id": "584798368234-v05spo1iqifn6vt3js1mf27klo5v3gi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whc.marketplace.byarijeet",
+            "certificate_hash": "02b5a59b7b72092c793de1b25baaef3f7a7fb423"
+          }
+        },
+        {
+          "client_id": "584798368234-59a0bdc2bsra23rbtv2sovqqpvmivdv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOJhAe41jaqO3aE7_ueaG86IBUJoxJdhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584798368234-59a0bdc2bsra23rbtv2sovqqpvmivdv0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584798368234-60i21s19lns6s0ms3nbr816tdpbigm43.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whc.user.byarijeet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584798368234:android:7d373ec2dcb98dcdea8293",
+        "android_client_info": {
+          "package_name": "com.whc.user.byarijeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584798368234-er6napo50fdmb6bq8ftv80h02q8iu9kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whc.user.byarijeet",
+            "certificate_hash": "cd9d40205db31c3b87d5e1849b2dd6fafd73ee6e"
+          }
+        },
+        {
+          "client_id": "584798368234-kgec8dn77soh7nfs8oph75jdc64g8q86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whc.user.byarijeet",
+            "certificate_hash": "02b5a59b7b72092c793de1b25baaef3f7a7fb423"
+          }
+        },
+        {
+          "client_id": "584798368234-peu4p982le6d6v15hegb1iamn78mg78f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whc.user.byarijeet",
+            "certificate_hash": "5c4cbe6250899daf67440fd64467852225c9148e"
+          }
+        },
+        {
+          "client_id": "584798368234-59a0bdc2bsra23rbtv2sovqqpvmivdv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOJhAe41jaqO3aE7_ueaG86IBUJoxJdhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584798368234-59a0bdc2bsra23rbtv2sovqqpvmivdv0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584798368234-60i21s19lns6s0ms3nbr816tdpbigm43.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whc.user.byarijeet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

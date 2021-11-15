@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>584798368234-vkdh33vqf58dguf031stfplj49br8qcf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.584798368234-vkdh33vqf58dguf031stfplj49br8qcf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>584798368234-napvpna7blt279m73df2u5bge0sdumpu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvf9x6QsZXbXRf8yUOMHYD0_ikLlVPDnc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>584798368234</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.whc.marketplace.byarijeet</string>
+	<key>PROJECT_ID</key>
+	<string>worldhealthcontrol-92431</string>
+	<key>STORAGE_BUCKET</key>
+	<string>worldhealthcontrol-92431.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:584798368234:ios:90ae8369e4722794ea8293</string>
+</dict>
+</plist>
